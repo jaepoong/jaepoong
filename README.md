@@ -11,5 +11,5 @@
   > 밑바닥부터 시작하는 딥러닝 학습 코딩 및 응용
   
 ## Languege
-* Python-pytorch,tensorflow
+* Python-pytorch,tensorflow,sklearn
 * Java
