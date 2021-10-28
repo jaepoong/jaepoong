@@ -9,15 +9,23 @@
   > 알고리즘 및 codingtest 문제 풀이
 * Deeplearning-from-scratch3
   > 밑바닥부터 시작하는 딥러닝 학습 코딩 및 응용
-  
-## Languege
-* Python-pytorch,tensorflow,sklearn
-* Java
-
+ 
 ## Task
 * Crawling
 * DeepLearning
 * Computer Vision
+  * Ganerative Adversarial Networks
+  * Object Detection
+  * Pose Estimation
 * Muchine Learning
 * AI Developer
 * Algorithm
+
+### Background
+* Linear Algebra
+* Statistics
+* Calculus
+
+## Languege
+* Python-pytorch,tensorflow,sklearn
+* Java
