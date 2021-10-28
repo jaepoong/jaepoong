@@ -13,3 +13,11 @@
 ## Languege
 * Python-pytorch,tensorflow,sklearn
 * Java
+
+## Task
+* Crawling
+* DeepLearning
+* Computer Vision
+* Muchine Learning
+* AI Developer
+* Algorithm
