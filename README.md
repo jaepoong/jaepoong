@@ -9,6 +9,8 @@
   > 알고리즘 및 codingtest 문제 풀이
 * Deeplearning-from-scratch3
   > 밑바닥부터 시작하는 딥러닝 학습 코딩 및 응용
+* Faster-R-CNN
+  > Faster R-CNN을 이용한 Object Detection 실습
  
 ## Task
 * Crawling
