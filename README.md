@@ -12,8 +12,7 @@
 * Faster-R-CNN
   > Faster R-CNN을 이용한 Object Detection 실습
  
-## Task
-* Crawling
+## Interest
 * DeepLearning
 * Computer Vision
   * Ganerative Adversarial Networks
@@ -22,6 +21,7 @@
 * Muchine Learning
 * AI Developer
 * Algorithm
+* Crawling
 
 ### Background
 * Linear Algebra
