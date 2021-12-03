@@ -2,9 +2,9 @@
 - Interesting : Datascience,Computer Vision, Gan,Object-Detection
 # Repository
 * Noise-Robust-Image-to-Image-translation 
-  > 논문 실험
-  > 2 Generator : Clean Generator, Noise Generator
-  > Image-to-Image translation with Clean Generator
+  * 논문 실험
+  * 2 Generator : Clean Generator, Noise Generator
+  * Image-to-Image translation with Clean Generator
 * Gan_Code_Paper
   > Gan에 관한 논문리뷰, 논문 Code 구현.
 * hands-on-machinelearning
