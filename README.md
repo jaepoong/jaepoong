@@ -35,3 +35,6 @@
 ## Languege
 * Python-pytorch,tensorflow,sklearn
 * Java
+
+#Backjoon
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjfwownd)](https://solved.ac/tjfwownd)
