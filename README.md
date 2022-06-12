@@ -1,6 +1,9 @@
 # jaepoong
 - Interesting : Datascience,Computer Vision, Gan,Object-Detection
 # Repository
+* [Colorizing & Cartoonizing implementation](https://github.com/jaepoong/Colorization-GAN)
+  * Colorizing about AFHQ dataset
+  * Cartoonizing about anime and landscape dataset
 * Noise-Robust-Image-to-Image-translation 
   * 논문 실험
   * 2 Generator : Clean Generator, Noise Generator
