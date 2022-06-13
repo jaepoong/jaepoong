@@ -20,23 +20,6 @@
   > 밑바닥부터 시작하는 딥러닝 학습 코딩 및 응용
 * Faster-R-CNN
   > Faster R-CNN을 이용한 Object Detection 실습
- 
-## Interest
-* DeepLearning
-* Computer Vision
-  * Ganerative Adversarial Networks
-  * Object Detection
-  * Pose Estimation
-* Muchine Learning
-* AI Developer
-* Algorithm
-* Crawling
-
-### Background
-* Linear Algebra
-* Statistics
-* Calculus
-
 
 # Backjoon
 
